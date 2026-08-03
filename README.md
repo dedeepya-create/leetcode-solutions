@@ -32,4 +32,5 @@ leetcode sql and pyspark solutions
 | [1211-queries-quality-and-percentage](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
