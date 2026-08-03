@@ -14,4 +14,5 @@ leetcode sql and pyspark solutions
 | [0185-department-top-three-salaries](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
