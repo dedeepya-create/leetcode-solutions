@@ -16,4 +16,5 @@ leetcode sql and pyspark solutions
 | [0511-game-play-analysis-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
