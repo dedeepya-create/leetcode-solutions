@@ -28,4 +28,5 @@ leetcode sql and pyspark solutions
 | [1070-product-sales-analysis-iii](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
