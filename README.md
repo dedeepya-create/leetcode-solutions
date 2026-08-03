@@ -24,4 +24,5 @@ leetcode sql and pyspark solutions
 | [0619-biggest-single-number](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/dedeepya-create/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/dedeepya-create/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
